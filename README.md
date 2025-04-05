@@ -1,16 +1,75 @@
-## Hi there 👋
+### 👋 ¡Hola, soy Aarón Girón!
+
+🚀 Desarrollador **Full Stack** apasionado por la tecnología y la creación de soluciones innovadoras.
+
+---
+
+### 💻 **Tecnologías con las que trabajo:**
+
+#### 🖥️ Backend:
+- Java ☕ | Spring Boot 🌿  
+- C# ⚡ | .NET 🔵
+- Js | Node Js
+  
+#### 🎨 Frontend:
+- Angular 🅰️
+- React ⚛️
+- JavaScript ⚡ | TypeScript 🟨  
+- jQuery 🔷  
+- ASP.NET MVC ⚙️  
+- Razor 📄  
+
+#### 🛠️ Otras herramientas:  
+- Git & GitHub 🐙
+- CI/CD ⚙️ (GitLab Actions)  
+- Cloud ☁️ (Azure App Service)  
+
+   
+#### 🗄️ Bases de datos:  
+- MySQL 🐬 | PostgreSQL 🐘
+- SQL Server T-SQL 🏢 | Oracle PL/SQL 🔶 
+---
+#### 🏗️ **Patrones de Diseño y Arquitectura de Software**:  
+- **Patrones de Diseño**:  
+  - MVC 
+  - Singleton 🏠  
+  - Inyeccioón de Dependencias 💉
+
+- **Arquitectura de Software**:  
+  - Monolítica 🏢  
+  - Microservicios 🧩  
+
+---
+#### 🧑‍💻 **Buenas Prácticas y Metodologías**:  
+- **Clean Code**:  
+  - Escribir código claro y legible  
+  - Eliminar la duplicación de código  
+  - Usar nombres significativos para variables y funciones  
+  - Mantener funciones pequeñas y simples  
+
+- **SOLID**:  
+  - **S** (Single Responsibility Principle) - Principio de Responsabilidad Única  
+  - **O** (Open/Closed Principle) - Principio de Abierto/Cerrado  
+  - **L** (Liskov Substitution Principle) - Principio de Sustitución de Liskov  
+  - **I** (Interface Segregation Principle) - Principio de Segregación de Interfaces  
+  - **D** (Dependency Inversion Principle) - Principio de Inversión de Dependencias  
+
+- **TDD (Test-Driven Development)**:  
+  - Escribir pruebas antes de escribir el código  
+  - Asegurar la calidad y la mantenibilidad del código  
+  - Fomentar el diseño de software robusto  
+---
 
 
-**agirong/agirong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 **Siempre aprendiendo**
+📚 Actualmente profundizando en arquitectura de software y escalabilidad.  
+⚡ Me encanta la innovación y la resolución de problemas con código.  
 
-Here are some ideas to get you started:
+📬 **¡Conéctate conmigo!**
+<a href="www.linkedin.com/in/aaron-obed-giron-5a6a011b4/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<a href="https://github.com/agirong" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20">
+</a>
