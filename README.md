@@ -7,9 +7,10 @@
 ### 💻 **Tecnologías con las que trabajo:**
 
 #### 🖥️ Backend:
-- Java ☕ | Spring Boot 🌿  
 - C# ⚡ | .NET 🔵
-- Js | Node Js
+- Java ☕
+- Js | Node Js 
+
   
 #### 🎨 Frontend:
 - Angular 🅰️
@@ -26,21 +27,29 @@
 
    
 #### 🗄️ Bases de datos:  
-- MySQL 🐬 | PostgreSQL 🐘
-- SQL Server T-SQL 🏢 | Oracle PL/SQL 🔶 
+- MySQL 🐬
+- PostgreSQL 🐘
+- SQL Server T-SQL 🏢
+- Oracle PL/SQL 🔶
+
 ---
 #### 🏗️ **Patrones de Diseño y Arquitectura de Software**:  
 - **Patrones de Diseño**:  
-  - MVC 
-  - Singleton 🏠  
+  - MVC
   - Inyeccioón de Dependencias 💉
+  - Singleton 🏠  
 
 - **Arquitectura de Software**:  
   - Monolítica 🏢  
   - Microservicios 🧩  
 
 ---
-#### 🧑‍💻 **Buenas Prácticas y Metodologías**:  
+#### 🧑‍💻 ** Metodologías y Buenas Prácticas **:  
+- **Agile Scrum**:  
+  - Aportar a la refinacióon de tareas en Backlog   
+  - Definición de los Sprints
+  - Trabajo efectivo en Equipo para lograr los objetivos del Sprint
+    
 - **Clean Code**:  
   - Escribir código claro y legible  
   - Eliminar la duplicación de código  
@@ -60,12 +69,12 @@
   - Fomentar el diseño de software robusto  
 ---
 
-
 ### 🌱 **Siempre aprendiendo**
 📚 Actualmente profundizando en arquitectura de software y escalabilidad.  
 ⚡ Me encanta la innovación y la resolución de problemas con código.  
 
 📬 **¡Conéctate conmigo!**
+
 <a href="www.linkedin.com/in/aaron-obed-giron-5a6a011b4/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20">
 </a>
