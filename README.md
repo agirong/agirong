@@ -53,33 +53,15 @@ Desarrollador de **Software** apasionado por la tecnología y la creación de so
 
 ---
 #### 🧑‍💻 **Metodologías y Buenas Prácticas**  
-- **Agile Scrum**
-  - Aportar a la refinación de tareas en Backlog   
-  - Definición de los Sprints
-  - Trabajo efectivo en Equipo para lograr los objetivos del Sprint
-    
-- **Clean Code**  
-  - Escribir código claro y legible  
-  - Eliminar la duplicación de código  
-  - Usar nombres significativos para variables y funciones  
-  - Mantener funciones pequeñas y simples  
-
-- **SOLID**
-  - **S** (Single Responsibility Principle) - Principio de Responsabilidad Única  
-  - **O** (Open/Closed Principle) - Principio de Abierto/Cerrado  
-  - **L** (Liskov Substitution Principle) - Principio de Sustitución de Liskov  
-  - **I** (Interface Segregation Principle) - Principio de Segregación de Interfaces  
-  - **D** (Dependency Inversion Principle) - Principio de Inversión de Dependencias  
-
-- **TDD (Test-Driven Development)**:  
-  - Escribir pruebas antes de escribir el código  
-  - Asegurar la calidad y la mantenibilidad del código  
-  - Fomentar el diseño de software robusto  
+- Agile Scrum
+- Clean Code para escribir código claro y legible  
+- SOLID aplico principios en proyectos reales
+- TDD (Test-Driven Development) asegurar la calidad y la mantenibilidad del código  
 ---
 
 ### 🌱 **Siempre aprendiendo**
-📚 Actualmente profundizando en arquitectura de software y escalabilidad.  
-⚡ Me encanta la innovación y la resolución de problemas con código.  
+📚 Actualmente profundizando en arquitectura de software y escalabilidad  
+⚡ Me encanta la innovación y la resolución de problemas con código
 
 📬 **¡Conéctate conmigo!**
 
