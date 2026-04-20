@@ -9,41 +9,31 @@ Desarrollador de **Software** apasionado por la tecnología y la creación de so
 #### 🚀 Backend
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,java,python" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,java,python" />
+</p>
+
+#### 🛢️ Data Bases & SQL
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dynamodb,mongodb,mysql,postgres" />
 </p>
   
 #### 🎨 Frontend
 
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,ts,androidstudio" />
-  </a>
 </p>
 
-#### 🛢️ Bases de Datos
+#### ♾️ DevOps & Infraestructure
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dynamodb,mongodb,mysql,postgres" />
-  </a>
-</p>
-
-#### 🛠️ DevOps & Infraestructura 
-
-<p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,azure,openshift" />
-  </a>
 </p>
 
-#### 🛠️ Herramientas
+#### 🛠️ Developer Tools
 
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,windows,linux,netlify,npm" />
-  </a>
 </p>
 
 ---
@@ -71,5 +61,17 @@ Desarrollador de **Software** apasionado por la tecnología y la creación de so
 ⚡ Me encanta la innovación y la resolución de problemas con código
 
 📬 **¡Conéctate conmigo!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-obed-giron-5a6a011b4/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agirong)
+<p align="left">
+  <a href="https://www.linkedin.com/in/aaron-obed-giron-5a6a011b4/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" align="center"/>
+  </a>
+  &nbsp;
+  <b><a href="https://www.linkedin.com/in/aaron-obed-giron-5a6a011b4/">Perfil Profesional</a></b>
+</p>
+<p align="left">
+  <a href="mailto:aarongiron.subs@gmail.com?subject=Interés en tu perfil&body=Hola Aarón, vi tu perfil y me gustaría conectar contigo.">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" align="center"/>
+  </a>
+  &nbsp;
+  <b><a href="href="mailto:aarongiron.subs@gmail.com?subject=Interés en tu perfil&body=Hola Aarón, vi tu perfil y me gustaría conectar contigo.">Email Personal</a></b>
+</p>
